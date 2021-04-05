@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "watch-folder": "nodemon --watch S2-Big_O_Notation/**/*.js"
+  }
+}
